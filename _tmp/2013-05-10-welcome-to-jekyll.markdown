@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: schwartz-post
 title:  "Welcome to Jekyll!"
 date:   2013-05-10 07:55:12
 categories: jekyll update

@@ -3,11 +3,19 @@ layout: default
 title: Your New Jekyll Site
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+{% for post in site.posts %}
+  <div class="thumbnail">
+  <div class="container-img interior-img">
+    <div class="grid-img">
+      <img class="unit-img span-grid" src="images/taking-the-plunge.jpg" alt="Divers in Hawaii">
+    </div>
+  </div>
+
+  <h2><a href="#">{{ post.title }}</a></h2>
+
+    <p class="time">By: Smith Schwartz | <time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></p>
+
+    {{ post.content }}
+  <a href="#" class="blog-link">Read More &#187;</a>
+  </div>
+{% endfor %}
