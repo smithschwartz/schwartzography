@@ -7,13 +7,13 @@ title: Your New Jekyll Site
   <div class="thumbnail">
   <div class="container-img interior-img">
     <div class="grid-img">
-      <img class="unit-img span-grid" src="images/taking-the-plunge.jpg" alt="Divers in Hawaii">
+      <img class="unit-img span-grid" src="{{ post.featured_img }}" alt="{{ post.featured_alt }}">
     </div>
   </div>
 
-  <h2><a href="#">{{ post.title }}</a></h2>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
-    <p class="time">By: Smith Schwartz | <time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></p>
+    <p class="time">By: {{ post.author }} | <time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></p>
 
     {{ post.content }}
   <a href="#" class="blog-link">Read More &#187;</a>
