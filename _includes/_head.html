@@ -2,7 +2,13 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-  <title>Schwartzography</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.name }}
+    {% else %}
+      {{ site.name }} | Digital nomads since 2011
+    {% endif %}
+  </title>
 
   <base href="{{ site.url }}">
   <link rel="stylesheet" href="css/normalize.css">

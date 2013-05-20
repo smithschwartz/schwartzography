@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Your New Jekyll Site
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <div class="thumbnail">
   <div class="container-img interior-img">
     <div class="grid-img">
@@ -16,6 +15,8 @@ title: Your New Jekyll Site
     <p class="time">By: {{ post.author }} | <time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></p>
 
     {{ post.content }}
-  <a href="#" class="blog-link">Read More &#187;</a>
+  <!--<a href="#" class="blog-link">Read More &#187;</a>-->
   </div>
 {% endfor %}
+
+{% include _pagination.html %}

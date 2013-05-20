@@ -3,7 +3,7 @@ author: Smith Schwartz
 comments: false
 date: 2013-03-04 12:09:16
 layout: post
-slug: wiki-wiki-to-wisconsin
+permalink: wiki-wiki-to-wisconsin/
 title: 'Wiki Wiki to Wisconsin'
 featured_img: images/taking-the-plunge.jpg
 featured_alt: Divers in Hawaii
@@ -30,7 +30,7 @@ So, we are back in the good ol' Midwest for a short stint. We came back to Chica
 
 ![smith-snow-mobile](http://schwartzography.com/wp-content/uploads/2013/03/smith-snow-mobile.jpg)
 
-Our first trip to Wisconsin was for [Snow*Mobile](http://snow-mobile.org/), a conference for mobile developers. It was a great weekend where we got to reconnect with some old friends and meet lots of great folks. I learned so much about all things mobile, including accessibility for the blind, the new Firefox OS, technical techniques and how mobile access can change lives in the developing world.
+Our first trip to Wisconsin was for [Snow\*Mobile](http://snow-mobile.org/), a conference for mobile developers. It was a great weekend where we got to reconnect with some old friends and meet lots of great folks. I learned so much about all things mobile, including accessibility for the blind, the new Firefox OS, technical techniques and how mobile access can change lives in the developing world.
 
 I also got to give a talk about how our traveling lives are akin to the agile mobile development process. Since this was my first professional (read: nerdy) talk, I was really touched by the enthusiasm of our peers of what we're doing. It was so fun to hear stories about how others have traveled for long stints and made it work in their lives.
 
