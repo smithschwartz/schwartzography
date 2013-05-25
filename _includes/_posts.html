@@ -1,0 +1,19 @@
+{% for post in paginator.posts %}
+  <div class="thumbnail">
+  <div class="container-img interior-img">
+    <div class="grid-img">
+      <img class="unit-img span-grid" src="{{ post.featured_img }}"
+        alt="{{ post.featured_alt }}">
+    </div>
+  </div>
+
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+    <p class="time">By: {{ post.author }} |
+    <time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></p>
+
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+{% include _pagination.html %}

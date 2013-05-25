@@ -7,9 +7,11 @@
   <aside class="banner">
     <div class="container">
       <div class="grid">
-          <div class="post-title unit span-grid">
-            <h2>Wiki Wiki to Wisconsin</h2>
-          </div>
+        <h3 class="post-title unit span-grid">Wiki Wiki to Wisconsin</h3>
+        <h5 class="post-categories unit span-grid">Location:
+          {% for category in page.categories %}
+            {{ category }}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
       </div>
     </div>
   </aside>
