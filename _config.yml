@@ -1,4 +1,4 @@
 name: Schwartzography
-baseurl: http://eeeschwartz.github.io/schwartzography/
+baseurl: /schwartzography/
 permalink: /slug/
 paginate: 1

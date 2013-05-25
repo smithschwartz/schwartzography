@@ -3,7 +3,7 @@ author: smerthadmin
 comments: true
 date: 2013-01-25 13:50:58
 layout: post
-slug: from-red-mud-to-roosters-touchdown-in-kauai
+permalink: from-red-mud-to-roosters-touchdown-in-kauai/
 title: 'From Red Mud to Roosters: Touchdown in Kauai'
 featured_img: images/taking-the-plunge.jpg
 featured_alt: Divers in Hawaii
