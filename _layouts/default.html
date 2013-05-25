@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include _head.html %}
-<body class="{{ page.body_css }} group">
+<body class="single-page group">
 
   {% include _header.html %}
-  {% include _carousel.html %}
+  {% include _text_carousel.html %}
 
   <section class="main-page container">
     <div class="grid">
@@ -12,7 +12,6 @@
         {{ content }}
       </div>
       <div class="one-of-four unit">
-        {% include _sidebar.html %}
       </div>
     </div>
   </section>
