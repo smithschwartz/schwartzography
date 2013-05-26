@@ -1,5 +1,5 @@
 ---
-author: smerthadmin
+author: Smith Schwartz
 comments: true
 date: 2013-01-25 13:50:58
 layout: post
