@@ -5,6 +5,8 @@ date: 2011-11-28 11:22:23
 layout: post
 permalink: i-sold-a-painting/
 title: I Sold A Painting!?
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/MossNo4Cut.jpg"
+featured_alt: "I Sold A Painting!?"
 wordpress_id: 262
 categories:
 - Kentucky

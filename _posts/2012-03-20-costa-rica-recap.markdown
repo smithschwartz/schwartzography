@@ -5,6 +5,8 @@ date: 2012-03-20 15:07:29
 layout: post
 permalink: costa-rica-recap/
 title: Costa Rica Recap
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/03/ErikSchwartzCostaRica.jpg"
+featured_alt: "Costa Rica Recap"
 wordpress_id: 1003
 categories:
 - Central America

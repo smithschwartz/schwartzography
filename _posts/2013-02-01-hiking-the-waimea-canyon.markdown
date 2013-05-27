@@ -5,6 +5,8 @@ date: 2013-02-01 11:00:56
 layout: post
 permalink: hiking-the-waimea-canyon/
 title: Hiking the Waimea Canyon
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/01/waialeale.jpg"
+featured_alt: "Hiking the Waimea Canyon"
 wordpress_id: 1526
 categories:
 - Hawaii

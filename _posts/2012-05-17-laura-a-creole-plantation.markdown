@@ -5,6 +5,8 @@ date: 2012-05-17 12:36:11
 layout: post
 permalink: laura-a-creole-plantation/
 title: 'Laura: A Creole Plantation'
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/05/Laura_Plantation170512_00.jpg"
+featured_alt: "Laura: A Creole Plantation"
 wordpress_id: 1412
 categories:
 - Louisiana

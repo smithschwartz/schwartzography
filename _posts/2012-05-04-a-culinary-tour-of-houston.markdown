@@ -5,6 +5,8 @@ date: 2012-05-04 11:40:32
 layout: post
 permalink: a-culinary-tour-of-houston/
 title: A Culinary Tour of Houston
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_Cut.jpg"
+featured_alt: "A Culinary Tour of Houston"
 wordpress_id: 1279
 categories:
 - Houston

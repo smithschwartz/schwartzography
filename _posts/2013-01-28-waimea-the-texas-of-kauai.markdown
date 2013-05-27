@@ -5,6 +5,8 @@ date: 2013-01-28 14:00:27
 layout: post
 permalink: waimea-the-texas-of-kauai/
 title: 'Waimea: The Texas of Kauai'
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/01/county-of-kauai.jpg"
+featured_alt: "Waimea: The Texas of Kauai"
 wordpress_id: 1537
 categories:
 - Hawaii

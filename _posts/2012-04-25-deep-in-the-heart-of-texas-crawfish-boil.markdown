@@ -5,6 +5,8 @@ date: 2012-04-25 12:00:40
 layout: post
 permalink: deep-in-the-heart-of-texas-crawfish-boil/
 title: 'Deep in the Heart of Texas: Crawfish Boil '
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/04/Crawfish_Boil_Cut.jpg"
+featured_alt: "Deep in the Heart of Texas: Crawfish Boil"
 wordpress_id: 1232
 categories:
 - Austin

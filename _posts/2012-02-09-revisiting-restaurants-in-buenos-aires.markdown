@@ -5,6 +5,8 @@ date: 2012-02-09 09:24:32
 layout: post
 permalink: revisiting-restaurants-in-buenos-aires/
 title: Revisiting Restaurants in Buenos Aires
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/TuttiiFiochi.jpg"
+featured_alt: "Revisiting Restaurants in Buenos Aires"
 wordpress_id: 754
 categories:
 - Argentina

@@ -5,6 +5,8 @@ date: 2013-01-31 11:00:53
 layout: post
 permalink: video-well-designed-travel-at-ignite-chicago/
 title: 'Video: Well-Designed Travel at Ignite Chicago'
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/01/ignite-chicago-smith.jpg"
+featured_alt: "Video: Well-Designed Travel at Ignite Chicago"
 wordpress_id: 1553
 categories:
 - Chicago

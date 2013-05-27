@@ -5,6 +5,8 @@ date: 2011-12-19 17:30:08
 layout: post
 permalink: foreign-snack-attack-buenos-aires/
 title: 'Foreign Snack Attack: Buenos Aires'
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/ForeignSnackAttack.jpg"
+featured_alt: "Foreign Snack Attack: Buenos Aires"
 wordpress_id: 396
 categories:
 - Argentina

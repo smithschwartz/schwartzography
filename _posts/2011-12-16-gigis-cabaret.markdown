@@ -5,6 +5,8 @@ date: 2011-12-16 13:25:41
 layout: post
 permalink: gigis-cabaret/
 title: Gigi's Cabaret
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/GigisCaberet.jpg"
+featured_alt: "Gigi's Cabaret"
 wordpress_id: 360
 categories:
 - Detroit

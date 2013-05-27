@@ -5,6 +5,8 @@ date: 2012-03-23 16:07:39
 layout: post
 permalink: re-entry-at-sxsw/
 title: Re-Entry at SXSW
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/03/DanFrielSXSW.jpg"
+featured_alt: "Re-Entry at SXSW"
 wordpress_id: 1027
 categories:
 - Austin

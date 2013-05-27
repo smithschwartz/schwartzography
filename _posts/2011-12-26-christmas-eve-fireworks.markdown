@@ -5,6 +5,8 @@ date: 2011-12-26 10:48:38
 layout: post
 permalink: christmas-eve-fireworks/
 title: Christmas Eve Fireworks
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/ChristmasFireworks.jpg"
+featured_alt: "Christmas Eve Fireworks"
 wordpress_id: 476
 categories:
 - Argentina

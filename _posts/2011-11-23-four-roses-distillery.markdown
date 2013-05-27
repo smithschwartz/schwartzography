@@ -5,6 +5,8 @@ date: 2011-11-23 11:41:53
 layout: post
 permalink: four-roses-distillery/
 title: Four Roses Distillery
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/FourRosesErik.jpg"
+featured_alt: "Four Roses Distillery"
 wordpress_id: 236
 categories:
 - Kentucky

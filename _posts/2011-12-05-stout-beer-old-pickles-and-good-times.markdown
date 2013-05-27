@@ -5,6 +5,8 @@ date: 2011-12-05 14:16:31
 layout: post
 permalink: stout-beer-old-pickles-and-good-times/
 title: Stout Beer, Old Pickles and Good Times
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/Zingermans.jpg"
+featured_alt: "Stout Beer, Old Pickles and Good Times"
 wordpress_id: 316
 categories:
 - Ann Arbor

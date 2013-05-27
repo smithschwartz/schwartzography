@@ -5,6 +5,8 @@ date: 2012-02-03 11:00:09
 layout: post
 permalink: teatro-colon/
 title: Teatro Colón
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/TheatroColon.jpg"
+featured_alt: "Teatro Colón"
 wordpress_id: 710
 categories:
 - Argentina

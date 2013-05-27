@@ -5,6 +5,8 @@ date: 2012-12-18 11:14:42
 layout: post
 permalink: on-work-and-travel/
 title: On Work and Travel
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/12/Work_Travel_01.jpg"
+featured_alt: "On Work and Travel"
 wordpress_id: 1471
 categories:
 - Chicago

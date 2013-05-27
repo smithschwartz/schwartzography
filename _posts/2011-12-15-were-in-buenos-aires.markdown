@@ -5,6 +5,8 @@ date: 2011-12-15 10:37:23
 layout: post
 permalink: were-in-buenos-aires/
 title: We're in Buenos Aires!
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/BuenosAiresSkyline.jpg"
+featured_alt: "We're in Buenos Aires!"
 wordpress_id: 339
 categories:
 - Argentina

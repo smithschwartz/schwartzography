@@ -5,6 +5,8 @@ date: 2012-02-13 12:58:04
 layout: post
 permalink: en-route-to-panama/
 title: En Route to Panama
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/FirstClasstoPanama.jpg"
+featured_alt: "En Route to Panama"
 wordpress_id: 832
 categories:
 - Argentina

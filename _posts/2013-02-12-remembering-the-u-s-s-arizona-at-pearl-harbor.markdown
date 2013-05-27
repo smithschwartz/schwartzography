@@ -5,6 +5,8 @@ date: 2013-02-12 13:05:45
 layout: post
 permalink: remembering-the-u-s-s-arizona-at-pearl-harbor/
 title: Remembering the U.S.S. Arizona at Pearl Harbor
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/02/pearl-harbor.jpg"
+featured_alt: "Remembering the U.S.S. Arizona at Pearl Harbor"
 wordpress_id: 1688
 categories:
 - Hawaii

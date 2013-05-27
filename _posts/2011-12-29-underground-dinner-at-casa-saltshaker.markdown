@@ -5,6 +5,8 @@ date: 2011-12-29 10:56:30
 layout: post
 permalink: underground-dinner-at-casa-saltshaker/
 title: Underground Dinner at Casa Saltshaker
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/CasaSaltshakerIndianaJune.jpg"
+featured_alt: "Underground Dinner at Casa Saltshaker"
 wordpress_id: 502
 categories:
 - Argentina

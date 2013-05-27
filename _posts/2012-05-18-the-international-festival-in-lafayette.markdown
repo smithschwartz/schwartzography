@@ -5,6 +5,8 @@ date: 2012-05-18 11:34:22
 layout: post
 permalink: the-international-festival-in-lafayette/
 title: The International Festival in Lafayette
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/05/International_Festival180512_01.jpg"
+featured_alt: "The International Festival in Lafayette"
 wordpress_id: 1428
 categories:
 - Lafayette

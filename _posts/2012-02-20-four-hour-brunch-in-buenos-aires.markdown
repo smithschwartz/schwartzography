@@ -5,6 +5,8 @@ date: 2012-02-20 14:56:37
 layout: post
 permalink: four-hour-brunch-in-buenos-aires/
 title: Four Hour Brunch in Buenos Aires
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/BuenosAiresBrunch.jpg"
+featured_alt: "Four Hour Brunch in Buenos Aires"
 wordpress_id: 885
 categories:
 - Argentina

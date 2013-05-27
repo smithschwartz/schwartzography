@@ -5,6 +5,8 @@ date: 2011-12-23 09:33:17
 layout: post
 permalink: la-recoleta-cemetery-in-buenos-aires/
 title: La Recoleta Cemetery in Buenos Aires
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/LaRecoletaCemetary.jpg"
+featured_alt: "La Recoleta Cemetery in Buenos Aires"
 wordpress_id: 433
 categories:
 - Argentina

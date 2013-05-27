@@ -5,6 +5,8 @@ date: 2012-01-20 17:04:58
 layout: post
 permalink: departemento-4b/
 title: Departemento 4B
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/01/Departamento4B1.jpg"
+featured_alt: "Departemento 4B"
 wordpress_id: 601
 categories:
 - Argentina

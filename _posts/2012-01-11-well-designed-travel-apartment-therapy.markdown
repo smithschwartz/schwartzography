@@ -5,6 +5,8 @@ date: 2012-01-11 15:55:31
 layout: post
 permalink: well-designed-travel-apartment-therapy/
 title: 'Well Designed Travel: Apartment Therapy'
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/01/Well_Designed_Travel1.jpg"
+featured_alt: "Well Designed Travel: Apartment Therapy"
 wordpress_id: 533
 categories:
 - Ann Arbor

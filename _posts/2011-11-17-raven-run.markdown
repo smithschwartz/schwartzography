@@ -5,6 +5,8 @@ date: 2011-11-17 12:47:50
 layout: post
 permalink: raven-run/
 title: Raven Run
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/RavenRunBarn.jpg"
+featured_alt: "Raven Run"
 wordpress_id: 173
 categories:
 - Kentucky

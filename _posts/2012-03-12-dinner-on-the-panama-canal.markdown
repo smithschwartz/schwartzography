@@ -5,6 +5,8 @@ date: 2012-03-12 06:31:36
 layout: post
 permalink: dinner-on-the-panama-canal/
 title: Dinner on the Panama Canal
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/03/PanamaCanalDinner.jpg"
+featured_alt: "Dinner on the Panama Canal"
 wordpress_id: 932
 categories:
 - Central America

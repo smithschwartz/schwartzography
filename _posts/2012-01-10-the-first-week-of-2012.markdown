@@ -5,6 +5,8 @@ date: 2012-01-10 09:50:15
 layout: post
 permalink: the-first-week-of-2012/
 title: The First Week of 2012
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/01/ErikHam1.jpg"
+featured_alt: "The First Week of 2012"
 wordpress_id: 515
 categories:
 - Argentina

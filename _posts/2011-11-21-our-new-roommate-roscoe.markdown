@@ -5,6 +5,8 @@ date: 2011-11-21 14:07:28
 layout: post
 permalink: our-new-roommate-roscoe/
 title: Our New Roommate, Roscoe
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/Roscoethedog.jpg"
+featured_alt: "Our New Roommate, Roscoe"
 wordpress_id: 198
 categories:
 - Kentucky

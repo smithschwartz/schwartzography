@@ -5,6 +5,8 @@ date: 2012-01-24 09:34:57
 layout: post
 permalink: colonia-after-dark/
 title: Colonia After Dark
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/01/CalleBuenSuspiro.jpg"
+featured_alt: "Colonia After Dark"
 wordpress_id: 655
 categories:
 - Colonia del Sacramento

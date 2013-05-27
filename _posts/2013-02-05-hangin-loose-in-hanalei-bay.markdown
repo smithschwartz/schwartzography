@@ -5,6 +5,8 @@ date: 2013-02-05 13:50:59
 layout: post
 permalink: hangin-loose-in-hanalei-bay/
 title: Hangin' Loose in Hanalei Bay
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/01/old-hanalei-school.jpg"
+featured_alt: "Hangin' Loose in Hanalei Bay"
 wordpress_id: 1587
 categories:
 - Hawaii

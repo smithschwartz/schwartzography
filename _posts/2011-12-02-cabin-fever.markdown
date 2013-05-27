@@ -5,6 +5,8 @@ date: 2011-12-02 15:21:59
 layout: post
 permalink: cabin-fever/
 title: 'Cabin Fever '
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/MichiganCut.jpg"
+featured_alt: "Cabin Fever"
 wordpress_id: 299
 categories:
 - Ann Arbor

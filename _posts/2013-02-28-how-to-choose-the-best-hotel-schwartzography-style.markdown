@@ -5,6 +5,8 @@ date: 2013-02-28 11:00:23
 layout: post
 permalink: how-to-choose-the-best-hotel-schwartzography-style/
 title: How to Choose the Best Hotel, Schwartzography Style
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/02/hotel-exterior.jpg"
+featured_alt: "How to Choose the Best Hotel, Schwartzography Style"
 wordpress_id: 1738
 categories:
 - Hawaii

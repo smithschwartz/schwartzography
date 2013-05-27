@@ -5,6 +5,8 @@ date: 2011-12-20 10:56:06
 layout: post
 permalink: rollin-with-my-homies-a-bike-tour-of-buenos-aires/
 title: 'Rollin With My Homies: A Bike Tour of Buenos Aires'
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/BuenosAiresTraffic.jpg"
+featured_alt: "Rollin With My Homies: A Bike Tour of Buenos Aires"
 wordpress_id: 417
 categories:
 - Argentina

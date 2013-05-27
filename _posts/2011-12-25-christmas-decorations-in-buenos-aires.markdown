@@ -5,6 +5,8 @@ date: 2011-12-25 10:01:56
 layout: post
 permalink: christmas-decorations-in-buenos-aires/
 title: Christmas Decorations in Buenos Aires
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/BuenosAiresChristmas.jpg"
+featured_alt: "Christmas Decorations in Buenos Aires"
 wordpress_id: 459
 categories:
 - Argentina

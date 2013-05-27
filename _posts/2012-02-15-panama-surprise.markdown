@@ -5,6 +5,8 @@ date: 2012-02-15 14:47:18
 layout: post
 permalink: panama-surprise/
 title: Panama Surprise
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/PanamaCity.jpg"
+featured_alt: "Panama Surprise"
 wordpress_id: 866
 categories:
 - Central America

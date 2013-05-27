@@ -5,6 +5,8 @@ date: 2012-04-13 18:33:38
 layout: post
 permalink: we-like-the-internet-413/
 title: We Like the Internet 4/13
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/04/ManMenTLoScreenCapCut.jpg"
+featured_alt: "We Like the Internet 4/13"
 wordpress_id: 1084
 categories:
 - Austin

@@ -5,6 +5,8 @@ date: 2011-11-30 14:16:26
 layout: post
 permalink: woodford-reserve-distillery/
 title: Woodford Reserve Distillery
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/WoodfordReserveBarrels.jpg"
+featured_alt: "Woodford Reserve Distillery"
 wordpress_id: 291
 categories:
 - Kentucky

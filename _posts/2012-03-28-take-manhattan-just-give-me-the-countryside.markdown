@@ -5,6 +5,8 @@ date: 2012-03-28 16:33:08
 layout: post
 permalink: take-manhattan-just-give-me-the-countryside/
 title: Take Manhattan, Just Give Me the Countryside
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/03/WinfieldTest.jpg"
+featured_alt: "Take Manhattan, Just Give Me the Countryside"
 wordpress_id: 1045
 categories:
 - Texas

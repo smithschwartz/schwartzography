@@ -5,6 +5,8 @@ date: 2012-01-19 17:25:31
 layout: post
 permalink: its-always-sunny-in-buenos-aires/
 title: It's Always Sunny in Buenos Aires
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/01/LiaandSam.jpg"
+featured_alt: "It's Always Sunny in Buenos Aires"
 wordpress_id: 575
 categories:
 - Argentina

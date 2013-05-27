@@ -5,6 +5,8 @@ date: 2011-11-17 13:36:19
 layout: post
 permalink: life-lessons-and-car-ownership/
 title: Life Lessons and Car Ownership
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/LFUCGticket.jpg"
+featured_alt: "Life Lessons and Car Ownership"
 wordpress_id: 189
 categories:
 - Kentucky

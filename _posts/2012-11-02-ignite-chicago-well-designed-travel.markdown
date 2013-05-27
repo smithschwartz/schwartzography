@@ -5,6 +5,8 @@ date: 2012-11-02 19:00:02
 layout: post
 permalink: ignite-chicago-well-designed-travel/
 title: 'Ignite Chicago: Well-Designed Travel'
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/11/well-designed-travel.jpg"
+featured_alt: "Ignite Chicago: Well-Designed Travel"
 wordpress_id: 1449
 categories:
 - Chicago

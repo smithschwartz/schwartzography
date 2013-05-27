@@ -5,6 +5,8 @@ date: 2012-03-16 11:00:45
 layout: post
 permalink: a-small-plane-is-a-big-deal/
 title: A Small Plane is a Big Deal
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/03/SANSAairCR.jpg"
+featured_alt: "A Small Plane is a Big Deal"
 wordpress_id: 973
 categories:
 - Central America

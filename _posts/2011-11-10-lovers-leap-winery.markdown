@@ -5,6 +5,8 @@ date: 2011-11-10 17:39:11
 layout: post
 permalink: lovers-leap-winery/
 title: Lover's Leap Winery
+featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/LoversLeapWinery.jpg"
+featured_alt: "Lover's Leap Winery"
 wordpress_id: 33
 categories:
 - Kentucky

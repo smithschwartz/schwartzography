@@ -5,6 +5,8 @@ date: 2013-03-25 15:40:03
 layout: post
 permalink: trip-planner-kauai/
 title: 'Trip Planner: Kauai'
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/03/erik-kauai-top.jpg"
+featured_alt: "Trip Planner: Kauai"
 wordpress_id: 1778
 categories:
 - Hawaii

@@ -5,6 +5,8 @@ date: 2012-01-16 17:15:15
 layout: post
 permalink: buen-suspiro-in-colonia-del-sacramento/
 title: Buen Suspiro in Colonia del Sacramento
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/01/CafeBuenSuspiro.jpg"
+featured_alt: "Buen Suspiro in Colonia del Sacramento"
 wordpress_id: 549
 categories:
 - Colonia del Sacramento

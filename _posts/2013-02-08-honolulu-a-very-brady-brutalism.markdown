@@ -5,6 +5,8 @@ date: 2013-02-08 15:38:29
 layout: post
 permalink: honolulu-a-very-brady-brutalism/
 title: 'Honolulu: A Very Brady Brutalism'
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/02/very-brady-honolulu.jpg"
+featured_alt: "Honolulu: A Very Brady Brutalism"
 wordpress_id: 1650
 categories:
 - Hawaii

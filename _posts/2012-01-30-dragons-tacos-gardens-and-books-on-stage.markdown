@@ -5,6 +5,8 @@ date: 2012-01-30 17:17:09
 layout: post
 permalink: dragons-tacos-gardens-and-books-on-stage/
 title: Dragons, Tacos, Gardens and Books on Stage
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/01/BABotanicalGarden.jpg"
+featured_alt: "Dragons, Tacos, Gardens and Books on Stage"
 wordpress_id: 689
 categories:
 - Argentina

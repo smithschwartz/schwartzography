@@ -5,6 +5,8 @@ date: 2012-02-23 15:12:50
 layout: post
 permalink: microwaves-and-monkeys-in-panama-city/
 title: Microwaves and Monkeys in Panama City
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/CountryStorePanama.jpg"
+featured_alt: "Microwaves and Monkeys in Panama City"
 wordpress_id: 910
 categories:
 - Central America

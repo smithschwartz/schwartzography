@@ -5,6 +5,8 @@ date: 2012-02-10 10:03:34
 layout: post
 permalink: the-last-empanada/
 title: The Last Empanada
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/TheLastEmpanada.jpg"
+featured_alt: "The Last Empanada"
 wordpress_id: 782
 categories:
 - Argentina

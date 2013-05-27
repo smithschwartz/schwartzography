@@ -5,6 +5,8 @@ date: 2012-04-11 16:24:58
 layout: post
 permalink: an-extreme-weekend-at-barton-creek-greenbelt/
 title: An Extreme Weekend at Barton Creek Greenbelt
+featured_img: "http://schwartzography.com/wp-content/uploads/2012/04/BartonCreekGreenbelt.jpg"
+featured_alt: "An Extreme Weekend at Barton Creek Greenbelt"
 wordpress_id: 1073
 categories:
 - Austin

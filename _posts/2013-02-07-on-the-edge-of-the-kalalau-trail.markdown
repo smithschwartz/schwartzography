@@ -5,6 +5,8 @@ date: 2013-02-07 14:39:41
 layout: post
 permalink: on-the-edge-of-the-kalalau-trail/
 title: On the Edge of the Kalalau Trail
+featured_img: "http://schwartzography.com/wp-content/uploads/2013/02/kalalau-coast.jpg"
+featured_alt: "On the Edge of the Kalalau Trail"
 wordpress_id: 1652
 categories:
 - Hawaii
