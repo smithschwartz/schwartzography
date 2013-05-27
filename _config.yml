@@ -1,4 +1,4 @@
 name: Schwartzography
 baseurl: /schwartzography/
 permalink: /slug/
-paginate: 1
+paginate: 10
