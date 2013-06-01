@@ -5,7 +5,7 @@ date: 2012-11-02 19:00:02
 layout: post
 permalink: ignite-chicago-well-designed-travel/
 title: 'Ignite Chicago: Well-Designed Travel'
-featured_img: "http://schwartzography.com/wp-content/uploads/2012/11/well-designed-travel.jpg"
+featured_img: "/images/2012/11/well-designed-travel.jpg"
 featured_alt: "Ignite Chicago: Well-Designed Travel"
 wordpress_id: 1449
 categories:
@@ -18,7 +18,7 @@ Tonight, I'm so excited to be presenting at [Ignite Chicago](http://www.ignitech
 
 If you're free tonight and want to come out, there are still a [few tickets left](http://www.ignitechi.org/#register-anchor). If not, here's a transcript. You'll just have imagine the uproarious laughter of the crowd when they laugh at all my jokes. 
 
-![](http://schwartzography.com/wp-content/uploads/2012/11/Suitcases.jpg)
+![](/images/2012/11/Suitcases.jpg)
 
 This is my home. About a year ago, my husband and I got rid of our apartment and belongings to live a life on the road. We thought if we can work from home, why can’t home be anywhere we want it to be?
 

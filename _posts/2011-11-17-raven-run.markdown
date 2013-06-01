@@ -5,7 +5,7 @@ date: 2011-11-17 12:47:50
 layout: post
 permalink: raven-run/
 title: Raven Run
-featured_img: "http://schwartzography.com/wp-content/uploads/2011/11/RavenRunBarn.jpg"
+featured_img: "/images/2011/11/RavenRunBarn.jpg"
 featured_alt: "Raven Run"
 wordpress_id: 173
 categories:
@@ -21,17 +21,17 @@ tags:
 - USA
 ---
 
-![](http://schwartzography.com/wp-content/uploads/2011/11/IMG_4432.jpg)
+![](/images/2011/11/IMG_4432.jpg)
 
 Fall in the South is such a relief to the past 10 autumns we spent in Chicago. With temperatures reaching into the 70's most days, we've been taking advantage with lots of outdoor activities. 
 
-![](http://schwartzography.com/wp-content/uploads/2011/11/IMG_4439.jpg)
+![](/images/2011/11/IMG_4439.jpg)
 
 On our first free Sunday here, we hiked at [Raven Run](http://www.lexingtonky.gov/index.aspx?page=276), a nature sanctuary just inside the city limits. I came here quite a bit in my youth, so it was a fun trip down memory lane with my Yankee husband.
  
-![](http://schwartzography.com/wp-content/uploads/2011/11/IMG_4447.jpg)
+![](/images/2011/11/IMG_4447.jpg)
 
 We hiked all the way up to the scenic overlook of the Kentucky River. Believe me, the dropoff here is steeper than it looks in the photo. I was definitely feeling the height at this point. However, a few butterflies in the belly are totally worth this amazing view, and the sense of quiet you can only find at the top of a mountain.
 
-![](http://schwartzography.com/wp-content/uploads/2011/11/IMG_4433.jpg)
+![](/images/2011/11/IMG_4433.jpg)
 

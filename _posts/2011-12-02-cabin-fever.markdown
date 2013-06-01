@@ -5,7 +5,7 @@ date: 2011-12-02 15:21:59
 layout: post
 permalink: cabin-fever/
 title: 'Cabin Fever '
-featured_img: "http://schwartzography.com/wp-content/uploads/2011/12/MichiganCut.jpg"
+featured_img: "/images/2011/12/MichiganCut.jpg"
 featured_alt: "Cabin Fever"
 wordpress_id: 299
 categories:
@@ -21,7 +21,7 @@ tags:
 - USA
 ---
 
-![](http://schwartzography.com/wp-content/uploads/2011/12/Michigan.jpg)
+![](/images/2011/12/Michigan.jpg)
 
 So we've been in Michigan for about a week now, and things are getting serious. Seriously cold, that is. I guess this whole adventure wouldn't be complete without a tiny dose of winter. We can take our lumps... we've got warm weather in store sooner than is fair.
 

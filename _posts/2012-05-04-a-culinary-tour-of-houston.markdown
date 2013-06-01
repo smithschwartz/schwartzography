@@ -5,7 +5,7 @@ date: 2012-05-04 11:40:32
 layout: post
 permalink: a-culinary-tour-of-houston/
 title: A Culinary Tour of Houston
-featured_img: "http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_Cut.jpg"
+featured_img: "/images/2012/05/Houston_Food_Cut.jpg"
 featured_alt: "A Culinary Tour of Houston"
 wordpress_id: 1279
 categories:
@@ -14,12 +14,12 @@ categories:
 - USA
 ---
 
-![](http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_2102_07-600x450.jpg)
+![](/images/2012/05/Houston_Food_2102_07-600x450.jpg)
 _Just imagine Erik's eyes are open..._
 
 We met lots of fun folks at SXSW, but only one invited us to spend the weekend at his house. 
 
-![](http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_2012_08-600x450.jpg)
+![](/images/2012/05/Houston_Food_2012_08-600x450.jpg)
 
 Not only did [Aziz](https://twitter.com/#!/TexasVC), Sania and their littles have us down to Houston for the weekend, they really went out of their way to show us around town. We were there a mere 29 hours and made it to all of the following:
 
@@ -40,22 +40,22 @@ Bayou Bend (Home of Ima Hogg)
 Johnny Dang's Grillz
 Dinner in Chinatown for some famous chicken corn soup
 
-![](http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_2012_01-600x450.jpg)
+![](/images/2012/05/Houston_Food_2012_01-600x450.jpg)
 
 Oh yeah, we slept a little bit too. That's an impressive 29 hours, no?
 
-![](http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_2012_05-600x450.jpg)
+![](/images/2012/05/Houston_Food_2012_05-600x450.jpg)
 
 As you can see, our biggest emphasis was on the food. Houston is an amazing food town, and we certainly made a big dent in the few hours we were there. One of our favorites was The Ragin Cajun, a New Orleans transplant to Houston after Hurricane Katrina. 
 
-![](http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_2012_06-600x450.jpg)
+![](/images/2012/05/Houston_Food_2012_06-600x450.jpg)
 
 After a couple of months in Argentina, we were so excited to see a shelf full of hot sauce. 
 
-![](http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_2012_03-600x450.jpg)
+![](/images/2012/05/Houston_Food_2012_03-600x450.jpg)
 
 Directly after we stuffed our bellies with crawfish, shrimp and hushpuppies, we went for burgers. We were so full that we had to have them split it into quarters.
 
-![](http://schwartzography.com/wp-content/uploads/2012/05/Houston_Food_2012_04-600x450.jpg)
+![](/images/2012/05/Houston_Food_2012_04-600x450.jpg)
 
 The craziest thing about Bubba's is that it's in the center of a spaghetti junction, surrounded by highways. Back when Houston decided to build all those highways, he dug in the spurred heels of his cowboy boots and refused to sell his long-standing restaurant. As you can see, Bubba fought the law and well, he won. He's got the same address he's always had, just with a very different view. 

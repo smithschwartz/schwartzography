@@ -5,7 +5,7 @@ date: 2012-02-10 10:03:34
 layout: post
 permalink: the-last-empanada/
 title: The Last Empanada
-featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/TheLastEmpanada.jpg"
+featured_img: "/images/2012/02/TheLastEmpanada.jpg"
 featured_alt: "The Last Empanada"
 wordpress_id: 782
 categories:
@@ -27,18 +27,18 @@ tags:
 
 Get right outta town! Indeed that's what we're about to do. With one final empanada we close the oven door on a very interesting and eventful 2 months in Buenos Aires.
 
-![the last empanada](http://schwartzography.com/wp-content/uploads/2012/02/empanada3.jpg)
+![the last empanada](/images/2012/02/empanada3.jpg)
 
 To recap, we've had some excellent estadounidense visitors:
 
-![](http://schwartzography.com/wp-content/uploads/2012/01/IMG_5675.jpg)
+![](/images/2012/01/IMG_5675.jpg)
 
-![](http://schwartzography.com/wp-content/uploads/2012/02/lia-samantha.jpg)
+![](/images/2012/02/lia-samantha.jpg)
 _Photo courtesy of Lia Andrews_
 
 We learned the word "[estadounidense](http://lmgtfy.com/?q=estadounidense)" among other essential but very difficult-to-pronounce words. Thankfully Spanish started to feel less booby-trapped over time and we were able to participate in conversations that would get a smart three year-old a nice pat on the head. To certify our excellence (Smith's anyway), the country of Argentina conspired to present us with this official endorsement:
 
-![](http://schwartzography.com/wp-content/uploads/2012/02/IntoWords.jpg)
+![](/images/2012/02/IntoWords.jpg)
 
 We thank the president and the mayor and everyone else who set aside their differences to help us roll our R's.
 

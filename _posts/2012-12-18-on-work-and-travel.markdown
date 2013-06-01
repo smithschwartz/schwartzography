@@ -5,7 +5,7 @@ date: 2012-12-18 11:14:42
 layout: post
 permalink: on-work-and-travel/
 title: On Work and Travel
-featured_img: "http://schwartzography.com/wp-content/uploads/2012/12/Work_Travel_01.jpg"
+featured_img: "/images/2012/12/Work_Travel_01.jpg"
 featured_alt: "On Work and Travel"
 wordpress_id: 1471
 categories:
@@ -35,7 +35,7 @@ Also, I'm not sure how much pre-planning we should do before getting there--like
 
 Anyway any advice you have on the basics would be great to hear! Thanks a million in advance!!
 
-![Smith at work](http://schwartzography.com/wp-content/uploads/2012/12/Work_Travel_02.jpg)
+![Smith at work](/images/2012/12/Work_Travel_02.jpg)
 
 
 My response:

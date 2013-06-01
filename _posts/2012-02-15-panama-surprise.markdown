@@ -5,7 +5,7 @@ date: 2012-02-15 14:47:18
 layout: post
 permalink: panama-surprise/
 title: Panama Surprise
-featured_img: "http://schwartzography.com/wp-content/uploads/2012/02/PanamaCity.jpg"
+featured_img: "/images/2012/02/PanamaCity.jpg"
 featured_alt: "Panama Surprise"
 wordpress_id: 866
 categories:
@@ -25,15 +25,15 @@ tags:
 
 So, I was expecting Panama City to look like this:
 
-![](http://schwartzography.com/wp-content/uploads/2012/02/Panama150212_01.jpg)
+![](/images/2012/02/Panama150212_01.jpg)
 
 But what I didn't expect was that it would also look like this:
 
-![](http://schwartzography.com/wp-content/uploads/2012/02/Panama150212_02.jpg)
+![](/images/2012/02/Panama150212_02.jpg)
 
 
   
 
 I guess that's what happens when you build this:
 
-![](http://schwartzography.com/wp-content/uploads/2012/02/Panama150212_03.jpg)
+![](/images/2012/02/Panama150212_03.jpg)
