@@ -1,7 +1,14 @@
 <section class="carousel">
   <div class="container-img">
     <div class="grid-img">
-      <img class="unit-img span-grid" src="images/taking-the-plunge.jpg" alt="Divers in Hawaii">
+      <ul class="rslides">
+        {% for post in site.posts limit:5 %}
+          <li>
+            <img class="unit-img span-grid" src="{{post.featured_img}}"
+             alt="{{post.featured_alt}}">
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
   <aside class="banner">
