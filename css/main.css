@@ -4,7 +4,7 @@
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 body {
-	color: #333;
+  color: #333;
 }
 
 .group:after {
@@ -15,427 +15,406 @@ body {
 
 
 li {
-	list-style: none;
+  list-style: none;
 }
 
 a {
-	color: #333;
-	font-weight: 600;
-	text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 a:hover {
-	color: black;
-	text-decoration: underline;
+  color: black;
+  text-decoration: underline;
 }
 
 .pagination a {
-	color: #aaa;
+  color: #aaa;
 }
 
 .pagination a:hover {
-	color: black;
+  color: black;
 }
 
 img {
-	border: 1px solid #ccc;
+  border: 1px solid #ccc;
 }
 
 /*Font*/
 
 html {
-	font: 125%/1.5 'Open Sans', Helvetica, Arial, sans-serif;
+  font: 125%/1.5 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 
-h1, 
+h1,
 h2 {
-	font-family: 'Lobster', cursive;
+  font-family: 'Lobster', cursive;
 }
 
 .banner h2,
 .single-page h2 {
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 h5, .home-nav {
-	font-size: .7em;
-	font-weight: bold;
-	line-height: 1.4em;
+  font-size: .7em;
+  font-weight: bold;
+  line-height: 1.4em;
 }
 
 .date,
 small {
-	font-size: .8em;
+  font-size: .8em;
 }
 
 /*Header*/
 
 .logo {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 header.container {
-	margin-top: 0;
+  margin-top: 0;
 }
 /*Layout*/
 
 .banner {
-	background: rgba(0, 0, 0, .2);
-	height: 3.5em;
-	position: relative;
-	top: -90px;
-	width: 100%;
+  background: rgba(0, 0, 0, .2);
+  height: 3.5em;
+  position: relative;
+  top: -90px;
+  width: 100%;
 }
 
 .banner,
 .banner a {
-	color: white;
+  color: white;
 }
 
 .post-title {
-	padding-left: 1em;
+  padding-left: 1em;
 }
 
 .post-categories,
 .post-categories a {
-	font-weight: 300;
+  font-weight: 300;
 }
 
 
 .banner h5 {
-	padding-left: 1em;
+  padding-left: 1em;
 }
 .carousel {
-	max-height: 28em;
-	padding-bottom: 40px;
+  max-height: 28em;
+  padding-bottom: 40px;
 
 }
 
 .blog-link,
 .time {
-	font-size: 60%;
+  font-size: 60%;
 }
 
 .time {
-	border-bottom: 1px solid #ccc;
-	border-top: 1px solid #ccc;
-	margin: .2em 0;
-	padding: .3em;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  margin: .2em 0;
+  padding: .3em;
 }
 
 .thumbnail h2 {
-	margin-bottom: .5em;
+  margin-bottom: .5em;
 }
 
 .thumbnail {
-	margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .pagination{
-	margin: 0 auto 40px auto;
-	width: 30%;
+  margin: 0 auto 40px auto;
+  width: 30%;
 }
 
 .pagination li{
-	display: block;
-	float: left;
-	margin-right: 9%;
+  display: block;
+  float: left;
+  margin-right: 9%;
 }
 
 
 input {
-	border: 1px solid #aaa;
-	display: block;
-	font-size: 80%;
-	float: left;
-	margin: 0;
-	height: 30px;
-	line-height: 30px;
-	padding: 0;
-	vertical-align: baseline;
+  border: 1px solid #aaa;
+  display: block;
+  font-size: 80%;
+  float: left;
+  margin: 0;
+  height: 30px;
+  line-height: 30px;
+  padding: 0;
+  vertical-align: baseline;
 }
 
 .text-input {
-	margin-right: 5%;
-	width: 64%;
+  margin-right: 5%;
+  width: 64%;
 }
 
 .text-input:focus {
-	outline: 0;
-	-moz-box-shadow:    inset 0 0 5px #aaa;
-	-webkit-box-shadow: inset 0 0 5px #aaa;
-	box-shadow:         inset 0 0 5px #aaa;
+  outline: 0;
+  -moz-box-shadow:    inset 0 0 5px #aaa;
+  -webkit-box-shadow: inset 0 0 5px #aaa;
+  box-shadow:         inset 0 0 5px #aaa;
 }
 
 .search-btn {
-	background: rgba(0, 0, 0, .2);
-	height: 32px;
-	width: 30%;
+  background: rgba(0, 0, 0, .2);
+  height: 32px;
+  width: 30%;
 }
 
 .search-btn:hover {
-	 background: rgba(0, 0, 0, .5);
-	 color: #eee;
+   background: rgba(0, 0, 0, .5);
+   color: #eee;
 }
 
 .locations ol {
-	font-size: 95%;
-	margin: 5px 0;
+  font-size: 95%;
+  margin: 5px 0;
 }
 
 li.continent {
-	margin-bottom: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 li.country {
-	margin-left: 5%;
+  margin-left: 5%;
 }
 
 li.state {
-	margin-left: 10%;
+  margin-left: 10%;
 }
 
 li.city {
-	margin-left: 10%;
+  margin-left: 10%;
 }
 
 .locations a {
-	font-weight: 300;
+  font-weight: 300;
 }
 
 .index-locations {
-	margin-top: 4em;
+  margin-top: 4em;
 }
 
 .three-of-four {
-	border-right: 1px dashed #ddd;
-	padding-right: 40px;
+  border-right: 1px dashed #ddd;
+  padding-right: 40px;
 }
 
 .nav-locations {
-	display: none;
+  display: none;
 }
 
 /*Single Post Layout */
 
 .single-post .post-title {
-	display: none;
+  display: none;
 }
 
 .single-post .post-categories {
-	line-height: 4.5em;
+  line-height: 4.5em;
 }
 
 .single-post h2 {
-	margin-top: 0;
+  margin-top: 0;
 }
 
 /*Page Layout*/
 
 .not-current {
-	color: #aaa;
+  color: #aaa;
 }
 
 .single-page .banner {
-	top: 0px;
+  top: 0px;
 }
 
 .single-page .banner h2 {
-	line-height: 2.2em;
-	margin: 0;
-	padding: 0;
+  line-height: 2.2em;
+  margin: 0;
+  padding: 0;
 }
 
 /*Flight Path Layout*/
 
 .date {
-	margin-left: 5%;
-	margin-bottom: 1em;
+  margin-left: 5%;
+  margin-bottom: 1em;
 }
 
 /*Footer*/
 
 footer {
-	background: rgba(0, 0, 0, .2);
-	border-top: 1px solid #aaa;
-	padding: 20px 0 40px 0;
+  background: rgba(0, 0, 0, .2);
+  border-top: 1px solid #aaa;
+  padding: 20px 0 40px 0;
 }
 
 /*Media Queries*/
 
 @media screen and (max-width: 1160px) {
 
-	.main-page {
-		top: -30px;
-	}
+  .main-page {
+    top: -30px;
+  }
 
-	.single-page .main-page {
-		top: -10px;
-	}
+  .single-page .main-page {
+    top: -10px;
+  }
 
 }
 
 @media screen and (max-width: 1100px) {
 
-	.main-page {
-		top: -60px;
-	}
+  .main-page {
+    top: -60px;
+  }
 
-	.pagination {
-		width: 50%;
-	}
+  .pagination {
+    width: 50%;
+  }
 
 }
 
 @media screen and (max-width: 1050px) {
 
-	.main-page {
-		top: -80px;
-	}
+  .main-page {
+    top: -80px;
+  }
 
-	.single-page .main-page {
-		top: -10px;
-	}
+  .single-page .main-page {
+    top: -10px;
+  }
 
 }
 
 @media screen and (max-width: 805px) {
 
 
-	h1.logo {
-		font-size: 2.2rem;
-	}
+  h1.logo {
+    font-size: 2.2rem;
+  }
 
 }
 
 @media screen and (max-width: 790px) {
 
-	.text-input {
-		width: 63%;
-	}
+  .text-input {
+    width: 63%;
+  }
 
-	.pagination {
-		width: 60%;
-	}
+  .pagination {
+    width: 60%;
+  }
 
-	.nav-grid {
-		padding-top: 4.6em;
-		width: 29%;
-	}
+  .nav-grid {
+    padding-top: 4.6em;
+    width: 29%;
+  }
 
-	.nav-grid.end {
-		width: 32%;
-	}
+  .nav-grid.end {
+    width: 32%;
+  }
 }
 
 @media screen and (max-width: 690px) {
 
-	.nav-grid {
-		background: white;
-		border-top: 1px dashed #ddd;
-		border-left: 1px dashed #ddd;
-		border-right: 1px dashed #ddd;
-		padding: 10px;
-		text-align: center;
-		text-transform: uppercase;
-		width: 100%;
-	}
+  .nav-grid {
+    background: white;
+    border-top: 1px dashed #ddd;
+    border-left: 1px dashed #ddd;
+    border-right: 1px dashed #ddd;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+  }
 
-	.nav-grid.end {
-		width: 100%;
-	}
+  .nav-grid.end {
+    width: 100%;
+  }
 
-	.even {
-		background: #eee;
-	}
+  .even {
+    background: #eee;
+  }
 
-	.nav-grid:hover {
-		background: rgba(0, 0, 0, .2);
-	}
+  .nav-grid:hover {
+    background: rgba(0, 0, 0, .2);
+  }
 
-	.nav-grid a:hover {
-		color: white;
-	}
+  .nav-grid a:hover {
+    color: white;
+  }
 
-	.main-nav {
-		border-bottom: 1px dashed #ddd;
-		margin: 20px 0;
-	}
+  .main-nav {
+    border-bottom: 1px dashed #ddd;
+    margin: 20px 0;
+  }
 
-	.nav-locations {
-		display: block;
-	}
+  .nav-locations {
+    display: block;
+  }
 
-	.index-locations {
-		display: none;
-	}
+  .index-locations {
+    display: none;
+  }
 
-	header .three-of-five {
-		width: 100%;
-	}
+  header .three-of-five {
+    width: 100%;
+  }
 
-	.carousel {
-		display: none;
-	}
+  .carousel {
+    display: none;
+  }
 
-	.main-page {
-		top: -10px;
-	}
+  .main-page {
+    top: -10px;
+  }
 
-	.one-of-four {
-		margin-top: 30px;
-	}
+  .one-of-four {
+    margin-top: 30px;
+  }
 
-	.three-of-four {
-		border-right: none;
-		padding-right: 0;
-	}
+  .three-of-four {
+    border-right: none;
+    padding-right: 0;
+  }
 
-	.pagination {
-		margin-bottom: 20px;
-	}
+  .pagination {
+    margin-bottom: 20px;
+  }
 
-	.locations a {
-		font-weight: 300;
-	}
-	
-	small {
-		font-size: 70%;
-	}
+  .locations a {
+    font-weight: 300;
+  }
 
-	.locations a {
-		font-weight: 300;
-	}
+  small {
+    font-size: 70%;
+  }
 
-	.three-of-four {
-		border-bottom: 1px dashed #ddd;
+  .locations a {
+    font-weight: 300;
+  }
 
-
-
+  .three-of-four {
+    border-bottom: 1px dashed #ddd;
+  }
 }
 
 @media screen and (max-width: 550px) {
-
-
-	.pagination {
-		width: 70%;
-	}
-
-
+  .pagination {
+    width: 70%;
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
