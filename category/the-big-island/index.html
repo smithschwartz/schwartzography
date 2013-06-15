@@ -1,0 +1,8 @@
+---
+layout: default
+title: The Big Island
+carousel_text: Adventures in The Big Island
+---
+{% for post in site.categories["the big island"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

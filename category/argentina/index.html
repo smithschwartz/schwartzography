@@ -1,0 +1,8 @@
+---
+layout: default
+title: Argentina
+carousel_text: Adventures in Argentina
+---
+{% for post in site.categories["argentina"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

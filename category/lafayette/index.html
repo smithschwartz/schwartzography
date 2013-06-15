@@ -1,0 +1,8 @@
+---
+layout: default
+title: Lafayette
+carousel_text: Adventures in Lafayette
+---
+{% for post in site.categories["lafayette"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

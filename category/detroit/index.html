@@ -1,0 +1,8 @@
+---
+layout: default
+title: Detroit
+carousel_text: Adventures in Detroit
+---
+{% for post in site.categories["detroit"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

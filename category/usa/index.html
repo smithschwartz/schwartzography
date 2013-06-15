@@ -1,0 +1,8 @@
+---
+layout: default
+title: USA
+carousel_text: Adventures in USA
+---
+{% for post in site.categories["usa"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

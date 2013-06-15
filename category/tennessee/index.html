@@ -1,0 +1,8 @@
+---
+layout: default
+title: Tennessee
+carousel_text: Adventures in Tennessee
+---
+{% for post in site.categories["tennessee"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

@@ -1,0 +1,8 @@
+---
+layout: default
+title: Panama
+carousel_text: Adventures in Panama
+---
+{% for post in site.categories["panama"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

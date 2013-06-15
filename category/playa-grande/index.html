@@ -1,0 +1,8 @@
+---
+layout: default
+title: Playa Grande
+carousel_text: Adventures in Playa Grande
+---
+{% for post in site.categories["playa grande"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

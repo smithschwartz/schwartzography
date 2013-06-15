@@ -1,0 +1,8 @@
+---
+layout: default
+title: Costa Rica
+carousel_text: Adventures in Costa Rica
+---
+{% for post in site.categories["costa rica"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

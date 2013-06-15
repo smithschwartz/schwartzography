@@ -1,0 +1,8 @@
+---
+layout: default
+title: Texas
+carousel_text: Adventures in Texas
+---
+{% for post in site.categories["texas"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

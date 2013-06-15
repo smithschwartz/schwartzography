@@ -1,0 +1,8 @@
+---
+layout: default
+title: Michigan
+carousel_text: Adventures in Michigan
+---
+{% for post in site.categories["michigan"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

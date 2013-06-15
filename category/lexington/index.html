@@ -1,0 +1,8 @@
+---
+layout: default
+title: Lexington
+carousel_text: Adventures in Lexington
+---
+{% for post in site.categories["lexington"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

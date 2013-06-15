@@ -1,0 +1,8 @@
+---
+layout: default
+title: Chicago
+carousel_text: Adventures in Chicago
+---
+{% for post in site.categories["chicago"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

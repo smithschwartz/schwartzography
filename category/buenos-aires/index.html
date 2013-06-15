@@ -1,0 +1,8 @@
+---
+layout: default
+title: Buenos Aires
+carousel_text: Adventures in Buenos Aires
+---
+{% for post in site.categories["buenos aires"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

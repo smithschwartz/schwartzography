@@ -1,0 +1,8 @@
+---
+layout: default
+title: Oahu
+carousel_text: Adventures in Oahu
+---
+{% for post in site.categories["oahu"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

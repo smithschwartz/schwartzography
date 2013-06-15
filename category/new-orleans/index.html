@@ -1,0 +1,8 @@
+---
+layout: default
+title: New Orleans
+carousel_text: Adventures in New Orleans
+---
+{% for post in site.categories["new orleans"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

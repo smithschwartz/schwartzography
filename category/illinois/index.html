@@ -1,0 +1,8 @@
+---
+layout: default
+title: Illinois
+carousel_text: Adventures in Illinois
+---
+{% for post in site.categories["illinois"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

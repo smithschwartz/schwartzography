@@ -1,0 +1,8 @@
+---
+layout: default
+title: Ann Arbor
+carousel_text: Adventures in Ann Arbor
+---
+{% for post in site.categories["ann arbor"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

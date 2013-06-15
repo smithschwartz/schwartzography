@@ -1,0 +1,8 @@
+---
+layout: default
+title: Wisconsin
+carousel_text: Adventures in Wisconsin
+---
+{% for post in site.categories["wisconsin"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

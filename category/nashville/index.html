@@ -1,0 +1,8 @@
+---
+layout: default
+title: Nashville
+carousel_text: Adventures in Nashville
+---
+{% for post in site.categories["nashville"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

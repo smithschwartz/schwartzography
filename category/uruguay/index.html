@@ -1,0 +1,8 @@
+---
+layout: default
+title: Uruguay
+carousel_text: Adventures in Uruguay
+---
+{% for post in site.categories["uruguay"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

@@ -1,0 +1,8 @@
+---
+layout: default
+title: Memphis
+carousel_text: Adventures in Memphis
+---
+{% for post in site.categories["memphis"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

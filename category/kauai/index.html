@@ -1,0 +1,8 @@
+---
+layout: default
+title: Kauai
+carousel_text: Adventures in Kauai
+---
+{% for post in site.categories["kauai"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

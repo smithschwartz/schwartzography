@@ -1,0 +1,8 @@
+---
+layout: default
+title: Louisiana
+carousel_text: Adventures in Louisiana
+---
+{% for post in site.categories["louisiana"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}

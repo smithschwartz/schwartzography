@@ -1,0 +1,8 @@
+---
+layout: default
+title: Houston
+carousel_text: Adventures in Houston
+---
+{% for post in site.categories["houston"] %}
+  {% include _truncated_post.html  %}
+{% endfor %}
