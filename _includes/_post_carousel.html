@@ -11,7 +11,8 @@
         <h3 class="post-title unit span-grid">Wiki Wiki to Wisconsin</h3>
         <h5 class="post-categories unit span-grid">Location:
           {% for category in page.categories %}
-            {{ category }}{% unless forloop.last %}, {% endunless %}
+            <a href="category/{{ category | downcase | replace: ' ', '-' }}/"
+            >{{category}}</a>{% unless forloop.last %}, {% endunless %}
           {% endfor %}
       </div>
     </div>
