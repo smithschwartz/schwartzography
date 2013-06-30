@@ -47,10 +47,14 @@ html {
   font: 125%/1.5 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
+p {
+  font-size: 100%;
+}
 
-h1,
-h2 {
+h1, h1 a, h2 a,
+h2{
   font-family: 'Lobster', cursive;
+  font-weight: 200;
 }
 
 .banner h2,
@@ -69,6 +73,9 @@ small {
   font-size: .8em;
 }
 
+.post-categories {
+  text-transform: capitalize;
+}
 /*Header*/
 
 .logo {
@@ -78,6 +85,7 @@ small {
 header.container {
   margin-top: 0;
 }
+
 /*Layout*/
 
 .banner {
@@ -86,6 +94,7 @@ header.container {
   position: relative;
   top: -90px;
   width: 100%;
+  z-index: 3;
 }
 
 .banner,
@@ -102,14 +111,14 @@ header.container {
   font-weight: 300;
 }
 
-
 .banner h5 {
   padding-left: 1em;
 }
+
 .carousel {
   max-height: 28em;
   padding-bottom: 40px;
-
+  z-index: 1;
 }
 
 .blog-link,
@@ -217,6 +226,14 @@ li.city {
   display: none;
 }
 
+p.previous, p.next {
+  display: block;
+  float: left;
+}
+
+p.previous {
+  margin-right: 15%;
+}
 /*Single Post Layout */
 
 .single-post .post-title {
@@ -327,9 +344,16 @@ footer {
   .nav-grid.end {
     width: 32%;
   }
+
+  h1.logo {
+    font-size: 2.2rem;
+  }
 }
 
 @media screen and (max-width: 690px) {
+  html {
+    font: 100%/1.5 'Open Sans', Helvetica, Arial, sans-serif;
+  }
 
   .nav-grid {
     background: white;

@@ -2,9 +2,9 @@
   {% if paginator.previous_page %}
     <p class="previous">
       {% if paginator.previous_page == 1 %}
-        <a href="/">Previous</a>
+        <a href="/">&#60; Previous</a>
       {% else %}
-        <a href="{{ paginator.previous_page_path }}">Previous</a>
+        <a href="{{ paginator.previous_page_path }}">&#60; Previous</a>
       {% endif %}
     </p>
   {% else %}
@@ -34,7 +34,7 @@
 
   {% if paginator.next_page %}
     <p class="next">
-      <a href="{{ paginator.next_page_path }}">Next</a>
+      <a href="{{ paginator.next_page_path }}">Next &gt;</a>
     </p>
   {% else %}
     <p class="next disabled">
