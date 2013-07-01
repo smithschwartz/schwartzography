@@ -51,12 +51,14 @@ p {
   font-size: 100%;
 }
 
-h1, h1 a, h2 a,
+h1, h1 a, h2 a, 
 h2{
   font-family: 'Lobster', cursive;
   font-weight: 200;
 }
 
+.post-categories,
+.post-title a,
 .banner h2,
 .single-page h2 {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
@@ -73,7 +75,14 @@ small {
   font-size: .8em;
 }
 
+.post-title h2 {
+  font-size: 1.3em;
+  font-weight: bold;
+  line-height: 1.3em;
+}
+
 .post-categories {
+  font-size: 1.3em;
   text-transform: capitalize;
 }
 /*Header*/
@@ -241,7 +250,7 @@ p.previous {
 }
 
 .single-post .post-categories {
-  line-height: 4.5em;
+  line-height: 2.8em;
 }
 
 .single-post h2 {
