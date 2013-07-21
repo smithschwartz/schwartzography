@@ -1,4 +1,5 @@
 require "jekyll"
+require "tmpdir"
 
 GITHUB_REPONAME = "smithschwartz/schwartzography"
 
